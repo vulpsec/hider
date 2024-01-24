@@ -9,6 +9,8 @@ git clone https://github.com/morbius-os/hider
 
 cd hider
 
+cd hider
+
 python3 m-hider.py
 ```
 ## Kullanım
